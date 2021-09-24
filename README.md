@@ -1,1 +1,1 @@
-# simple-jollibee-pos-system
+# Simple Jollibee Point of Sale System
